@@ -1,3 +1,3 @@
 # gitflow
 
-lsj commit
+gyuseob commit
